@@ -1,5 +1,5 @@
 import './App.css';
-import { ComponenteF } from './pure/componenteF';
+import { ComponenteF } from './components/pure/componenteF';
 
 function App() {
   return (
